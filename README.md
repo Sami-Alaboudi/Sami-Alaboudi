@@ -1,4 +1,4 @@
-Nice to see 👀 you here , I go by Sami Alaboudi!👋
+# Nice to see 👀 you here , I go by Sami Alaboudi!👋
 
 My first introduction to programing began in highschool after I took an intdroductory course on python. Althought at the time I enjoyed it, It had not crossed my mind as a potential carreer path given my wide array of interests at the time. Fast forward to today and I am currently pursuing an undergrad in Computer Engineering at Carleton University, which with the luxury of heinseit made perfect sense given my interest in mathematics, love of problem solving(which engineering will allow for at scale) and art background in my early youth.
 
