@@ -10,7 +10,8 @@ As of now I am currently seeking & open for an oppurunuity to work in the coming
 
 # 🗝️Skills & background
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d6666626330333f266c6f676f3d507974686f6e267374796c653d666f722d7468652d6261646765](https://github.com/Sami-Alaboudi/Sami-Alaboudi/assets/80726173/a2da2941-254d-44e6-ba16-67b5339ed0a6)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f266c6f676f3d63267374796c653d666f722d7468652d6261646765](https://github.com/Sami-Alaboudi/Sami-Alaboudi/assets/80726173/567d292e-3960-4010-8403-9c5378e7f072) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f266c6f676f3d63267374796c653d666f722d7468652d6261646765](https://github.com/Sami-Alaboudi/Sami-Alaboudi/assets/80726173/567d292e-3960-4010-8403-9c5378e7f072) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
